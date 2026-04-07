@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me (Savage Edition)
+## 🧠 About Me 
 
 - 💻 I don't fix bugs… I **intimidate them**
 - 🐛 99% logic, 1% "why is this working?"
