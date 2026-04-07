@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me 
+## 🧠 About Me
 
 - 💻 I don't fix bugs… I **intimidate them**
 - 🐛 99% logic, 1% "why is this working?"
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Performance (Damage Report)
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajbhardwajhts&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -52,10 +52,12 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/surajbhardwajhts/surajbhardwajhts/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajbhardwajhts/surajbhardwajhts/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surajbhardwajhts/surajbhardwajhts/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surajbhardwajhts/surajbhardwajhts/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> **⚠️ Note:** The snake animation requires a GitHub Action workflow. [Click here for setup guide](https://github.com/Platane/snk)
 
 ---
 
@@ -66,7 +68,7 @@
 
 Loading skills... ███████░░░ 70%
 Loading motivation... ██░░░░░░░ 20%
-Error: Motivation not found (exit code: 404)
+Error: Motivation not found
 
 Installing discipline...
 Permission denied ❌
