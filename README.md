@@ -1,16 +1,72 @@
-## Hi there 👋
+# 🐶 Hey, I'm Suraj
 
-<!--
-**surajbhardwajhts/surajbhardwajhts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Debugging+Life+One+Bug+at+a+Time;Powered+by+Coffee+%26+Chaos;Dog+is+the+Real+CEO+🐶" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me (Savage Edition)
+
+- 💻 I don't fix bugs… I **intimidate them**
+- 🐛 99% logic, 1% "why is this working?"
+- ☕ Code powered by caffeine & bad decisions
+- 📊 I make dashboards that look smart (don't ask questions)
+- 🐶 Profile picture = actual developer
+
+---
+
+## 🚀 Tech Arsenal
+
+### ⚔️ Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python" />
+</p>
+
+### 🧠 Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git" />
+</p>
+
+### 📊 Data & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Performance (Damage Report)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajbhardwajhts&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhardwajhts&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surajbhardwajhts/surajbhardwajhts/output/github-contribution-grid-snake.svg" />
+</p>
+
+> **⚠️ Note:** The snake animation requires a GitHub Action workflow. [Click here for setup guide](https://github.com/Platane/snk)
+
+---
+
+## 🧠 Current System Status
+
+```text
+> sudo run life.exe
+
+Loading skills... ███████░░░ 70%
+Loading motivation... ██░░░░░░░ 20%
+Error: Motivation not found (exit code: 404)
+
+Installing discipline...
+Permission denied ❌
